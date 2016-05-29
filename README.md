@@ -27,6 +27,8 @@ Upload Files to your Web Server of choice
  - Include more web app features
  - Add Code Comments
  - Add more customisation options
+ - reposition search in mobile view
+ - js copyright date
 
 License
 ----
@@ -37,7 +39,7 @@ Fully Free and Open Source.*
 
 Copyright Free.*
 
-***This only applies to source material created by plefor and not the material used from other sources**
+**This only applies to source material created by plefor and not the material used from other sources*
 
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [jQuery]: <http://jquery.com>
